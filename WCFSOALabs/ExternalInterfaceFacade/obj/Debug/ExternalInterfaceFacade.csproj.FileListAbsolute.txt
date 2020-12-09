@@ -1,0 +1,70 @@
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\RentalInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\CustomerInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\RentalInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\CustomerInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\CustomerInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\RentalInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\CustomerInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\RentalInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\CustomerInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\RentalInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\CustomerInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\RentalInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.dll
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\CustomerInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\RentalInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\CustomerInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\RentalInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ResolveAssemblyReference.cache
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.dll
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\CustomerInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\RentalInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\CustomerInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\ExternalInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\bin\Debug\RentalInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.csproj.CopyComplete
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\bin\Debug\ExternalInterfaceFacade.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\bin\Debug\CustomerInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\bin\Debug\ExternalInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\bin\Debug\RentalInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\bin\Debug\CustomerInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\bin\Debug\ExternalInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\bin\Debug\RentalInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.csproj.CopyComplete
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalInterfaceFacade\obj\Debug\ExternalInterfaceFacade.pdb

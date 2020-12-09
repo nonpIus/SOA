@@ -1,0 +1,140 @@
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.exe
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementService.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterfaceFacade.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterfaceFacade.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementService.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.exe
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.exe.config
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.exe.config
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.exe
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementService.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterfaceFacade.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementService.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterfaceFacade.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.exe
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.exe.config
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.exe
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementService.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterfaceFacade.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementService.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterfaceFacade.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.exe
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.exe.config
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.exe
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementService.dll
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.dll
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterfaceFacade.dll
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.dll
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementService.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterfaceFacade.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\ResolveAssemblyReference.cache
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.exe
+C:\WCF4\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.exe.config
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.exe
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\HostAllServices.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementService.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterfaceFacade.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CarManagementService.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\CustomerService.dll.config
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterfaceFacade.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\ExternalInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\bin\Debug\RentalService.dll.config
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.csproj.CopyComplete
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.exe
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\HostAllServices\obj\Debug\HostAllServices.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\HostAllServices.exe.config
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\HostAllServices.exe
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\HostAllServices.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\CarManagementInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\CarManagementService.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\CustomerInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\CustomerService.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\ExternalInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\ExternalInterfaceFacade.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\RentalInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\RentalService.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\CarManagementInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\CarManagementService.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\CustomerInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\CustomerService.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\CustomerService.dll.config
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\ExternalInterfaceFacade.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\ExternalInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\RentalInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\RentalService.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\bin\Debug\RentalService.dll.config
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\obj\Debug\HostAllServices.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\obj\Debug\HostAllServices.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\obj\Debug\HostAllServices.csproj.CopyComplete
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\obj\Debug\HostAllServices.exe
+C:\Users\NonPlus\Desktop\WCFSOALabs\HostAllServices\obj\Debug\HostAllServices.pdb

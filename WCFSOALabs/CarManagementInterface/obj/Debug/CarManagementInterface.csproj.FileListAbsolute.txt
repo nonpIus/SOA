@@ -1,0 +1,32 @@
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\CarManagementInterface\bin\Debug\CarManagementInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\CarManagementInterface\bin\Debug\CarManagementInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\CarManagementInterface\bin\Debug\CarManagementInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\CarManagementInterface\bin\Debug\CarManagementInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\CarManagementInterface\bin\Debug\CarManagementInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\CarManagementInterface\bin\Debug\CarManagementInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\CarManagementInterface\bin\Debug\CarManagementInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\CarManagementInterface\bin\Debug\CarManagementInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\WCF4\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\CarManagementInterface\bin\Debug\CarManagementInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\CarManagementInterface\bin\Debug\CarManagementInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\CarManagementInterface\obj\Debug\CarManagementInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\CarManagementInterface\bin\Debug\CarManagementInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\CarManagementInterface\bin\Debug\CarManagementInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\CarManagementInterface\obj\Debug\CarManagementInterface.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\CarManagementInterface\obj\Debug\CarManagementInterface.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\CarManagementInterface\obj\Debug\CarManagementInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\CarManagementInterface\obj\Debug\CarManagementInterface.pdb

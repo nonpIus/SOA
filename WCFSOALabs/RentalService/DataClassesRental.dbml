@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CarRentalCaseDB" Class="DataClassesRentalDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\NonPlus\Documents\CarRentalCaseDB.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="RentalService.Properties.Settings" SettingsPropertyName="CarRentalCaseDBConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Rental" Member="Rental">
+    <Type Name="Rental">
+      <Column Name="RentalID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CustomerID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CarID" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PickUpLocation" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DropOffLocation" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PickUpDateTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DropOffDateTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PaymentStatus" Type="System.String" DbType="Char(3)" CanBeNull="true" />
+      <Column Name="Comments" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

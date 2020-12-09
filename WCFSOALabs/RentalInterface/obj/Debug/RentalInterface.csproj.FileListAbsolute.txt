@@ -1,0 +1,32 @@
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\RentalInterface\bin\Debug\RentalInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\RentalInterface\bin\Debug\RentalInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\RentalInterface\bin\Debug\RentalInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\RentalInterface\bin\Debug\RentalInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\RentalInterface\bin\Debug\RentalInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\RentalInterface\bin\Debug\RentalInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\RentalInterface\bin\Debug\RentalInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\RentalInterface\bin\Debug\RentalInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\WCF4\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\RentalInterface\bin\Debug\RentalInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\RentalInterface\bin\Debug\RentalInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\RentalInterface\obj\Debug\RentalInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\RentalInterface\bin\Debug\RentalInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\RentalInterface\bin\Debug\RentalInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\RentalInterface\obj\Debug\RentalInterface.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\RentalInterface\obj\Debug\RentalInterface.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\RentalInterface\obj\Debug\RentalInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\RentalInterface\obj\Debug\RentalInterface.pdb

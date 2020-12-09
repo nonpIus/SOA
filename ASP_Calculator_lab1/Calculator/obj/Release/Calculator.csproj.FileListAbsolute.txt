@@ -1,0 +1,7 @@
+C:\Users\NonPlus\Desktop\AIT\ASP_Calculator_lab1\Calculator\bin\Calculator.dll.config
+C:\Users\NonPlus\Desktop\AIT\ASP_Calculator_lab1\Calculator\bin\Calculator.dll
+C:\Users\NonPlus\Desktop\AIT\ASP_Calculator_lab1\Calculator\bin\Calculator.pdb
+C:\Users\NonPlus\Desktop\AIT\ASP_Calculator_lab1\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\AIT\ASP_Calculator_lab1\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\AIT\ASP_Calculator_lab1\Calculator\obj\Release\Calculator.dll
+C:\Users\NonPlus\Desktop\AIT\ASP_Calculator_lab1\Calculator\obj\Release\Calculator.pdb

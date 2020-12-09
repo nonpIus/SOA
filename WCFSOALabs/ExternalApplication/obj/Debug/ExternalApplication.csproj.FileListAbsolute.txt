@@ -1,0 +1,97 @@
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.Properties.Resources.resources
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.csproj.GenerateResource.Cache
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.exe
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\RentalInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\CustomerInterface.dll
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\RentalInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\CustomerInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalInterface.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.exe
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.pdb
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.exe.config
+C:\Data\Work\TheCarRentalSOACase\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.Form1.resources
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.exe.config
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.exe
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\CustomerInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\RentalInterface.dll
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\CustomerInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\RentalInterface.pdb
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.Form1.resources
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.Properties.Resources.resources
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ResGen.read.1.tlog
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ResGen.write.1.tlog
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.exe
+C:\Data\WCFBookCases\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.exe.config
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.exe
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\CustomerInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\RentalInterface.dll
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\CustomerInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\RentalInterface.pdb
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.Form1.resources
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.Properties.Resources.resources
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ResGen.read.1.tlog
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ResGen.write.1.tlog
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.exe
+C:\Users\KUCL\Desktop\Finals WCFBook\FINALCODE\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.exe.config
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.exe
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\CustomerInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\RentalInterface.dll
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\CustomerInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\RentalInterface.pdb
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.Form1.resources
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.Properties.Resources.resources
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\GenerateResource.read.1.tlog
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\GenerateResource.write.1.tlog
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.exe
+C:\WCF4\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.exe.config
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.exe
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalApplication.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\CustomerInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\RentalInterface.dll
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\CustomerInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\ExternalInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\bin\Debug\RentalInterface.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.Form1.resources
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.Properties.Resources.resources
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.csproj.GenerateResource.cache
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.csproj.CopyComplete
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.exe
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.pdb
+C:\Users\NonPlus\Desktop\SOA11\TheCarRentalSOACaseSolution\ExternalApplication\obj\Debug\ExternalApplication.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\bin\Debug\ExternalApplication.exe.config
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\bin\Debug\ExternalApplication.exe
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\bin\Debug\ExternalApplication.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\bin\Debug\CustomerInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\bin\Debug\ExternalInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\bin\Debug\RentalInterface.dll
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\bin\Debug\CustomerInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\bin\Debug\ExternalInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\bin\Debug\RentalInterface.pdb
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\obj\Debug\ExternalApplication.csprojAssemblyReference.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\obj\Debug\ExternalApplication.Form1.resources
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\obj\Debug\ExternalApplication.Properties.Resources.resources
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\obj\Debug\ExternalApplication.csproj.GenerateResource.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\obj\Debug\ExternalApplication.csproj.CoreCompileInputs.cache
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\obj\Debug\ExternalApplication.csproj.CopyComplete
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\obj\Debug\ExternalApplication.exe
+C:\Users\NonPlus\Desktop\WCFSOALabs\ExternalApplication\obj\Debug\ExternalApplication.pdb
